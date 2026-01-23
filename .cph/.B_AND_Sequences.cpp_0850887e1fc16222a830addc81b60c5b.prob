@@ -1,0 +1,1 @@
+{"name":"B. AND Sequences","url":"https://codeforces.com/contest/1513/problem/B","interactive":false,"memoryLimit":0,"timeLimit":3000,"group":"Codeforces - Divide by Zero 2021 and Codeforces Round 714 (Div. 2)","tests":[{"id":1768972678775,"input":"4\n3\n1 1 1\n5\n1 2 3 4 5\n5\n0 2 0 3 0\n4\n1 3 5 1\n","output":"6\n0\n36\n4\n"}],"srcPath":"b:\\CODEFORCES\\B_AND_Sequences.cpp"}
